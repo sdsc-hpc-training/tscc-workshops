@@ -1,9 +1,5 @@
 # TSCC Bootcamp: TSCC Compilers 
-Note: Taken from  SDSC 2018 Webinar Series Topic: Introduction to Running Jobs on TSCC 
-
-## <a name="top"></a>Compiling & Linking
-
-## <a name="compilers"></a>Compiling & Linking
+## <a name="top"></a>Compiling & Linking<a name="compilers"></a>
 
 Comet provides the Intel, Portland Group (PGI), and GNU compilers along with multiple MPI implementations (MVAPICH2, MPICH2, OpenMPI). Most applications will achieve the best performance on Comet using the Intel compilers and MVAPICH2 and the majority of libraries installed on Comet have been built using this combination. 
 
