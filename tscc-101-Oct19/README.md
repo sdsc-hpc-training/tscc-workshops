@@ -2,7 +2,7 @@
 
 **Date:**        Tuesday, October 15, 2019, 2:30PM - 4:30PM
 
-**Location:**    SDSC Auditorium (Directions)
+**Location:**    SDSC Conference Room E-145 
 
 **Description:** 
 This training will cover everything new users need to know about using the TSCC system. Topics will include: how to apply; an overview of condo/hotel; overview of various architectures of condo, gpu, and data mover nodes; accounts and allocation usage monitoring; environmental modules; types of queues, building jobs, and job submission; and file systems. You can participate in person, or via the Zoom conferencing system.
