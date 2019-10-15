@@ -17,11 +17,13 @@ This webinar will use the Zoom conferencing system. You should receive an email 
      * Email: tscc-l@mailman.ucsd.edu
 
 ## Agenda
-1. _Overview_,  Presented by: Dr. Ron Hawkins, Ph.D.) [ [1-tscc-overview](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/1-tscc-overview) ]
+### Part 1. _Overview_,  [ [1-tscc-overview](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/1-tscc-overview) ]
+_Presented by: Dr. Ron Hawkins, Ph.D. _
 * History & Overview  
 * How to join the TSCC cluster
 
-2. _Getting Started - TSCC System Environment_ (Presented by: Mary Thomas, Ph.D.  [ [2-tscc-getting-started](2-tscc-getting-started ]
+2. _Getting Started - TSCC System Environment_ [ [2-tscc-getting-started](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/2-tscc-getting-started) ]
+Presented by: Mary Thomas, Ph.D.  
 * Logging Onto TSCC
 * Data movement
 * Modules: Managing User Environments
