@@ -17,11 +17,11 @@ In this exercise, you must use your SDSC or XSEDE account to log onto the TSCC c
     - [Getting Domain Name & Host Information](#term-app-dn-info)
 * [Expand your knowledge using TSCC User guide](#tscc-user-guide)
 
-Note: if you have any difficulties completing this task, please contact Institute staff at <consult@sdsc.edu>.
+Note: For TSCC consulting, contact TSCC support: tscc-support@ucsd.edu 
 
-## <a name="obtain-your-tscc-account"></a>Obtain your tscc account:
+## <a name="obtain-your-tscc-account"></a>Obtain your TSCC account:
 
-To obtain a trial TSCC account see the TSCC Guide:  https://www.sdsc.edu/support/user_guides/tscc-quick-start.html
+To obtain a trial TSCC account see the TSCC Guide:  https://www.sdsc.edu/services/hpc/tscc-purchase.html 
 
 [Back to Top](#top)
 <hr>
