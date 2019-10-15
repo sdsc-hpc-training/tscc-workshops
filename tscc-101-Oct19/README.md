@@ -15,6 +15,8 @@ This webinar will use the Zoom conferencing system. You should receive an email 
 * Join the TSCC Forum:  
      * https://mailman.ucsd.edu/mailman/listinfo/tscc-l 
      * Email: tscc-l@mailman.ucsd.edu
+* TSCC User Guide:  [https://www.sdsc.edu/support/user_guides/tscc.html](https://www.sdsc.edu/support/user_guides/tscc.html
+)
 
 ## Agenda
 ### Part 1: [TSCC Overview](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/1-tscc-overview) 
