@@ -17,7 +17,7 @@ This webinar will use the Zoom conferencing system. You should receive an email 
      * Email: tscc-l@mailman.ucsd.edu
 
 ## Agenda
-1. _Overview_,  Presented by: Dr. Ron Hawkins, Ph.D.) [tscc-tutorials/1-tscc-overview](tscc-tutorials/1-tscc-overview)
+1. _Overview_,  Presented by: Dr. Ron Hawkins, Ph.D.) [ [1-tscc-overview](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/1-tscc-overview) ]
 * History & Overview  
 * How to join the TSCC cluster
 
