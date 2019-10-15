@@ -1,5 +1,4 @@
 # TSCC Bootcamp: Using Modules
-Note: Taken from  SDSC 2018 Webinar Series Topic: Introduction to Running Jobs on TSCC 
 
 ## <a name="modules"></a>Modules: Customizing Your User Environment
 The Environment Modules package provides for dynamic modification of your shell environment. Module commands set, change, or delete environment variables, typically in support of a particular application. They also let the user choose between different versions of the same software or different combinations of related codes. See:
