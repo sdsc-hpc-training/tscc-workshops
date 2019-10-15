@@ -17,19 +17,20 @@ This webinar will use the Zoom conferencing system. You should receive an email 
      * Email: tscc-l@mailman.ucsd.edu
 
 ## Agenda
-### Part 1. _Overview_,  [ [1-tscc-overview](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/1-tscc-overview) ]
-_Presented by: Dr. Ron Hawkins, Ph.D. _
+### Part 1: Overview  [ [1-tscc-overview](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/1-tscc-overview) ]
+_Presented by: Dr. Ron Hawkins, Ph.D._
 * History & Overview  
 * How to join the TSCC cluster
 
-2. _Getting Started - TSCC System Environment_ [ [2-tscc-getting-started](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/2-tscc-getting-started) ]
-Presented by: Mary Thomas, Ph.D.  
+### Part 2: Getting Started - TSCC System Environment [ [2-tscc-getting-started](https://github.com/sdsc-hpc-training/tscc-tutorials/tree/master/tscc-101-Oct19/2-tscc-getting-started) ]
+_Presented by: Mary Thomas, Ph.D._  
 * Logging Onto TSCC
 * Data movement
 * Modules: Managing User Environments
 * Compiling Code
 
-3. _TSCC Files & Jobs (Presented by: Subha Sivagnanam, Ph.D. [ [3-tscc-files-and-jobs] (3-tscc-files-and-jobs) ]
+### Part 3: TSCC Files & Jobs  [ [3-tscc-files-and-jobs] (3-tscc-files-and-jobs) ]
+_Presented by: Subha Sivagnanam, Ph.D._
 * TSCC File Systems
 * Job submission
 
