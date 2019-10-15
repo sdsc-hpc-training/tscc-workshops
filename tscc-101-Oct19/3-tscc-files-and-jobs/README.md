@@ -1,4 +1,5 @@
-# TSCC bootcamp material
+# TSCC-101: 3.  Files and Jobs
 
-Readme file for TSCC bootcamps
-
+* Presented by: Subha Sivagnanam, Ph.D.
+* TSCC File Systems
+* Job submission
