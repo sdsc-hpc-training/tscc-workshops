@@ -4,6 +4,9 @@
 The Environment Modules package provides for dynamic modification of your shell environment. Module commands set, change, or delete environment variables, typically in support of a particular application. They also let the user choose between different versions of the same software or different combinations of related codes. See:
 https://www.sdsc.edu/support/user_guides/tscc.html#env-modules
 
+Note: For TSCC consulting, contact TSCC support: tscc-support@ucsd.edu
+
+
 <b> Common module commands:</b>
    
    Here are some common module commands and their descriptions:
