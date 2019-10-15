@@ -1,4 +1,4 @@
-# TSCC Bootcamp: Getting Started
+# TSCC-101: Getting Started
 
 2. _Getting Started - TSCC System Environment_ 
 _Presented by:_ Mary Thomas, Ph.D.
