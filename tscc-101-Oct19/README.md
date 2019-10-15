@@ -29,7 +29,7 @@ _Presented by: Mary Thomas, Ph.D._
 * Modules: Managing User Environments
 * Compiling Code
 
-### Part 3: TSCC Files & Jobs  [ [3-tscc-files-and-jobs] (3-tscc-files-and-jobs) ]
+### Part 3: TSCC Files & Jobs  ( [3-tscc-files-and-jobs](3-tscc-files-and-jobs) )
 _Presented by: Subha Sivagnanam, Ph.D._
 * TSCC File Systems
 * Job submission
